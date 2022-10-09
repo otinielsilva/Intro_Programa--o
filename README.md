@@ -1,2 +1,2 @@
 # Intro Programação
- Aulas e Exercicios da diciplina de Introdução a Programação
+ Aulas e Exercicios da disciplina de Introdução a Programação
